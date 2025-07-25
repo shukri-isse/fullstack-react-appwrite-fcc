@@ -45,7 +45,7 @@ This repo includes mini projects and key concepts built throughout the course.
 ## 🛠️ Setup
 
 ```bash
-git clone https://github.com/yourusername/react-mini-projects.git
+git clone https://github.com/shukri-isse/fullstack-react-appwrite-fcc.git
 cd react-mini-projects
 npm install
 npm run dev

@@ -1,8 +1,7 @@
 <!-- # start of react js -->
 # ⚛️ React Mini Projects – Hitesh Choudhary x freeCodeCamp
 
-Learning React through [Hitesh Choudhary’s Full Course (2024)](https://www.youtube.com/watch?v=Bvwq_S0n2pk), in collaboration with **freeCodeCamp** and **Appwrite**.  
-This repo includes mini projects and key concepts built throughout the course.
+Learning React through [Hitesh Choudhary’s Full Course (2024)](https://www.youtube.com/watch?v=Bvwq_S0n2pk), in collaboration with **freeCodeCamp** and **Appwrite**. This repo includes mini projects and key concepts built throughout the course.
 
 ---
 
@@ -46,6 +45,6 @@ This repo includes mini projects and key concepts built throughout the course.
 
 ```bash
 git clone https://github.com/shukri-isse/fullstack-react-appwrite-fcc.git
-cd react-mini-projects
+cd fullstack-react-appwrite-fcc
 npm install
 npm run dev

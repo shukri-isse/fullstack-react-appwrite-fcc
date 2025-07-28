@@ -10,6 +10,7 @@ Learning React through [Hitesh Choudhary’s Full Course (2024)](https://www.you
 | Name | Concepts | Code Folder |
 |------|----------|-------------|
 | 🧮 Counter App | `useState`, events | [`/counter-app`](./counter-app) |
+| 🃏 Cards with Props | props, components, Tailwind CSS | [`/cards-with-props`](./cards-with-props) |
 | 📝 To-Do List | props, conditional rendering | [`/todo-list`](./todo-list) |
 | 🌙 Dark Mode Toggle | `useState`, dynamic classNames | [`/dark-mode-toggle`](./dark-mode-toggle) |
 | 📦 Product Card | props, components, Tailwind | [`/product-card`](./product-card) |

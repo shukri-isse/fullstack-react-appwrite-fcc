@@ -12,7 +12,7 @@ Learning React through [Hitesh Choudhary’s Full Course (2024)](https://www.you
 | 🧮 Counter App | `useState`, events | [`/counter-app`](./counter-app) |
 | 🃏 Cards with Props | props, components, Tailwind CSS | [`/cards-with-props`](./cards-with-props) |
 🎨 BG Color Changer | `useState`, inline styles, event handling | [`/bg-color-changer`](./bg-color-changer) |
-| 🌙 Dark Mode Toggle | `useState`, dynamic classNames | [`/dark-mode-toggle`](./dark-mode-toggle) |
+| 🔑 Password Generator | `useState`, `useCallback`, `useEffect`, `useRef` | [`/password-generator`](./password-generator) |
 | 📦 Product Card | props, components, Tailwind | [`/product-card`](./product-card) |
 | 🔐 Login Form | controlled inputs, basic validation | [`/login-form`](./login-form) |
 

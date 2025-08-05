@@ -13,7 +13,7 @@ Learning React through [Hitesh Choudhary’s Full Course (2024)](https://www.you
 | 🃏 Cards with Props | props, components, Tailwind CSS | [`/cards-with-props`](./cards-with-props) |
 🎨 BG Color Changer | `useState`, inline styles, event handling | [`/bg-color-changer`](./bg-color-changer) |
 | 🔑 Password Generator | `useState`, `useCallback`, `useEffect`, `useRef` | [`/password-generator`](./password-generator) |
-| 📦 Product Card | props, components, Tailwind | [`/product-card`](./product-card) |
+| 🌐 React Router | React Router, nested routes, API fetching | [`/react-router`](./react-router) |
 | 🔐 Login Form | controlled inputs, basic validation | [`/login-form`](./login-form) |
 
 ---

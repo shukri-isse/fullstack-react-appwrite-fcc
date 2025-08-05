@@ -14,7 +14,7 @@ Learning React through [Hitesh Choudhary’s Full Course (2024)](https://www.you
 🎨 BG Color Changer | `useState`, inline styles, event handling | [`/bg-color-changer`](./bg-color-changer) |
 | 🔑 Password Generator | `useState`, `useCallback`, `useEffect`, `useRef` | [`/password-generator`](./password-generator) |
 | 🌐 React Router | React Router, nested routes, API fetching | [`/react-router`](./react-router) |
-| 🔐 Login Form | controlled inputs, basic validation | [`/login-form`](./login-form) |
+| 🧠 Mini Context Project | Context API, global state, GitHub API | [`/mini-context`](./mini-context) |
 
 ---
 

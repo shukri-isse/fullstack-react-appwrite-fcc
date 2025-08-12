@@ -6,7 +6,7 @@ Learning React through [Hitesh Choudhary’s Full Course (2024)](https://www.you
 ---
 
 ## 🧩 Projects
-
+`
 | Name | Concepts | Code Folder |
 |------|----------|-------------|
 | 🧮 Counter App | `useState`, events | [`/counter-app`](./counter-app) |
@@ -15,6 +15,8 @@ Learning React through [Hitesh Choudhary’s Full Course (2024)](https://www.you
 | 🔑 Password Generator | `useState`, `useCallback`, `useEffect`, `useRef` | [`/password-generator`](./password-generator) |
 | 🌐 React Router | React Router, nested routes, API fetching | [`/react-router`](./react-router) |
 | 🧠 Mini Context Project | Context API, global state, GitHub API | [`/mini-context`](./mini-context) |
+| 🌓 Theme Switch | Context API, Tailwind CSS dark mode toggle, card UI | [`/theme-switch`](./theme-switch) |
+
 
 ---
 
